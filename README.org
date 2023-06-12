@@ -1,0 +1,10 @@
+* corona
+
+Create and manage virtual machines from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/corona.git   |
+| commit  | 8d34d75  |
+| systems | corona |
+|---------+-------------------------------------------|
+
